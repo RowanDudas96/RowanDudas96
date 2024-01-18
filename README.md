@@ -1,45 +1,43 @@
-```
-Hi, I’m Rowan 👋
-I’m a DevOps Engineer in Berlin
+# Hi there, I'm Rowan! 👋
 
-My toolset is the following, but not limited to:
+I am a passionate DevOps Engineer based in Berlin, Germany, with a keen interest in building robust and scalable infrastructures. I thrive on automating processes, implementing efficient CI/CD pipelines, and optimizing cloud-based solutions.
 
-CI/CD
+## 🔧 Tech Stack
+
+### CI/CD
 - GitHub Actions
 - Jenkins
 
-Cloud
+### Cloud
 - AWS (API Gateway, EC2, ECR, ECS, EKS, Elasticache, ELB, Kinesis, Lambda, RDS, S3, VPC)
 
-Containerisation & Orchestration
+### Containerization & Orchestration
 - Docker
-- Docker compose
-- Docker swarm
+- Docker Compose
+- Docker Swarm
 - Kubernetes
 
-Infrastructure as Code
+### Infrastructure as Code
 - Ansible
 - Terraform
 
-Monitoring & Observability
-- Amazon Cloudwatch
+### Monitoring & Observability
+- Amazon CloudWatch
 - Bugsnag
 - New Relic
 - PagerDuty
 - Slack
 
-Source control
+### Source Control
 - GitHub
 
-Tools
+### Tools
 - Bash / Shell
 - JSON
 - Python
 - YAML
-```
 
+## 🌐 Connect With Me
 
-<!---
-RowanDudas96/RowanDudas96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rowan-dudas/) to discuss all things DevOps, cloud architecture, and technology.
+
